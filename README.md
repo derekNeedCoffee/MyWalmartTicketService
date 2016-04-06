@@ -10,9 +10,9 @@ Go to the project directory( contains the POM.XML) In the command line,
 Type commands:
 
 ```bash   
-**For Install**  
+#For Install
 mvn install 
-**For Test**  
+For Test 
 mvn  test
 ```
 
