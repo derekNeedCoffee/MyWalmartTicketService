@@ -11,8 +11,8 @@ Type commands:
 
 ```bash   
 #For Install
-mvn install 
-#For Test 
+mvn package
+#For Test
 mvn  test
 ```
 
