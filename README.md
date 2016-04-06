@@ -12,7 +12,7 @@ Type commands:
 ```bash   
 #For Install
 mvn install 
-For Test 
+#For Test 
 mvn  test
 ```
 
