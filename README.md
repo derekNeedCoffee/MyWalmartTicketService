@@ -9,11 +9,11 @@ To build/test the application
 Go to the project directory( contains the POM.XML) In the command line,
 Type commands:
 
-```bash   
-#For Install
-mvn package
-#For Test
-mvn  test
+```bash
+# For Install
+$ mvn install 
+# For Test 
+$ mvn  test
 ```
 
    Assumptions: 
