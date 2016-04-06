@@ -1,4 +1,4 @@
-# TICKET  SERVICE 
+# Ticket  Service
 
 `To change the parameters for the stadium,
 Please change in the seatsInformation.json file.`
