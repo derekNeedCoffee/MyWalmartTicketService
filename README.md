@@ -9,7 +9,7 @@ To build/test the application
 Go to the project directory( contains the POM.XML) In the command line,
 Type commands:
 
-    
+```bash   
 **For Install**  
 _mvn install_  
 **For Test**  
