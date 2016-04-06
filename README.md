@@ -11,9 +11,9 @@ Type commands:
 
 ```bash   
 **For Install**  
-_mvn install_  
+mvn install 
 **For Test**  
-_mvn  test_
+mvn  test
 ```
 
    Assumptions: 
